@@ -1,0 +1,20 @@
+name: ffs_custom_loader
+description: The "ffs_custom_loader" package is a Flutter library that provides custom and visually appealing loading components for mobile applications. It empowers developers to create loading animations that are unique and tailored to their application's style, thereby enhancing user engagement during loading phases.
+homepage: https://github.com/cesairekent/flutter_custom_loader
+version: 1.0.0+1
+
+environment:
+  sdk: '>=3.0.5 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^2.0.0
+
+flutter:
+  uses-material-design: true
